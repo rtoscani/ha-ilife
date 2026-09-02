@@ -3,7 +3,7 @@ DOMAIN = "ilife"
 CONF_BRAND = "brand"   # config-entry key: which whitelabel profile (see brands.py)
 
 # WorkMode groups used to derive the vacuum activity
-CLEANING_MODES = {3, 4, 5, 6, 13, 10}
+CLEANING_MODES = {3, 4, 5, 6, 10, 13, 19, 20}
 DOCKED_MODES = {9, 11, 16}
 RETURNING_MODES = {8}
 PAUSED_MODES = {12}
